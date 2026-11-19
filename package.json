@@ -1,0 +1,14 @@
+{
+  "name": "pinky-photobook",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite"
+  },
+  "dependencies": {
+    "vite": "^6.0.0",
+    "qrcode": "^1.5.4"
+  }
+}
